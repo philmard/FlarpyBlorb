@@ -19,8 +19,11 @@ Some of them are:
 - More Debug Messages
 
 **This Project includes:**
+
 **- Use of C# for the scripts of the game (in Visual Studio 2022)**
+
 **- Use of Unity Game Engine [🔗](https://en.wikipedia.org/wiki/Unity_(game_engine)#:~:text=The%20engine%20can%20be%20used,the%20United%20States%20Armed%20Forces.)**
+
 **- Use of Git and Github Desktop to upload Project Files**
 
 
