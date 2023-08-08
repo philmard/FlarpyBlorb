@@ -27,7 +27,7 @@ Some of them are:
 
 # The Game
 
-A quick Overview of what the game looks like:
+A quick **Overview** of what the game looks like:
 
 **You can press 'Space' to Flap and Start the game!**
 
