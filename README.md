@@ -29,19 +29,19 @@ Some of them are:
 
 A quick Overview of what the game looks like:
 
-You can press 'Space' to Flap and Start the game!
+**You can press 'Space' to Flap and Start the game!**
 
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/2d571469-daac-4f58-af38-e711e7569e03)
 
-Score increases every time the Bird flies through the Pipes!
+**Score increases every time the Bird flies through the Pipes!**
 
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/88fbc996-76d4-427b-926b-d21d41ce4d26)
 
-You can Pause the game using 'Esc'
+**You can Pause the game using 'Esc'**
 
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/527c0e41-c4e2-4e75-b4bf-27a872046dd4)
 
-If the Bird hits a pipe, it's Game Over :(
+**If the Bird hits a pipe, it's Game Over :(**
 
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/d819bb85-41a3-4e5e-b431-132b3a82c8f3)
 
