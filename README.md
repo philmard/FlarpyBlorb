@@ -1,6 +1,8 @@
 # FlarpyBlorb
 
 This is a Game I created in [Unity](https://unity.com/) inspired by [this](https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker%27sToolkit) youtube video. 
+![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/3c8a37b4-3826-470b-b394-91b090feeeda)
+
 
 I have made many additions to the Game.
 
@@ -16,7 +18,11 @@ The Game Includes:
 - Terrain Spawner
 - Pipe Spawner
 
+Total (10) scripts.
+
 # The Game
+
+A quick Overview of what the game looks like:
 
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/2d571469-daac-4f58-af38-e711e7569e03)
 
