@@ -93,7 +93,7 @@ The User can choose to Resume the game / Go to Main Menu / Quit the game
 
 
 
-# Unity Screenshots
+## Unity Screenshots
 
 Scene View:
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/5e6cd113-65f1-42be-8be4-2127728ea824)
