@@ -107,6 +107,8 @@ Animations:
 Audio Mixer:
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/51d36efa-7009-4719-83dc-fd40e03facf7)
 
+using an exposed parameter of **'volume'**.
+
 Debug Messages in Console:
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/2bbeab48-c591-4cec-9ad3-69f5fc3bcbe2)
 
