@@ -42,6 +42,7 @@ If the Bird hits a pipe, it's Game Over :(
 
 # Scripts (in C#):
 There are (10) Scripts total:
+
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/a12fe390-a591-4413-947b-866803e26cf6)
 
 Example of a script (Birdscript.cs):
