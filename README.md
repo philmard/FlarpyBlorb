@@ -35,13 +35,26 @@ The Game Includes:
 
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/b055bc84-b393-4e54-9ce8-e1cdf5595346)
 
+On the Main Menu I have added Buttons with On Click Events. 
+
+The User can choose to Play / Go to Options Menu / Quit the game
+
 # Options Menu
 
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/1d944ac8-4bfd-464a-a2b2-ea1fe841fbdc)
 
+On the Options Menu I have added Buttons with On Click Events, a Slider for the Master Volume of the game, and a Fullscreen Toggle.
+
+The User can choose to adjust the Volume / Toggle Fullscreen / Go Back to the Main Menu
+
 # Pause Menu
 
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/baf1d3c2-6556-41cb-a034-89562112c5d9)
+
+On the Pause Menu I have added Buttons with On Click Events.
+
+The User can choose to Resume the game / Go to Main Menu / Quit the game
+
 
 # Unity Screenshot
 
