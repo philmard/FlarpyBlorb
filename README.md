@@ -40,6 +40,15 @@ If the Bird hits a pipe, it's Game Over :(
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/d819bb85-41a3-4e5e-b431-132b3a82c8f3)
 
 
+# Scripts (in C#):
+There are (10) Scripts total:
+![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/a12fe390-a591-4413-947b-866803e26cf6)
+
+Example of a script (Birdscript.cs):
+![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/6959d4d3-5cea-4f9d-bb6e-a8ac0fe791f2)
+which I used to control the movement of the Bird, and also some of the Game Over/Pause functionality.
+
+
 
 
 # Main Menu
