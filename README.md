@@ -6,7 +6,7 @@ This is a Game created in [Unity](https://unity.com/) inspired by [this](https:/
 
 I have made many additions to the Game. I have also made some changes to it.
 
-Some of them include:
+Some of them are:
 - Main Menu
 - Options Menu
 - Pause Menu
