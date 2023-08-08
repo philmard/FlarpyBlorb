@@ -54,6 +54,7 @@ There are **(10) Scripts total**:
 Example of a script (**Birdscript.cs**):
 
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/6959d4d3-5cea-4f9d-bb6e-a8ac0fe791f2)
+
 which I used to control the movement of the Bird, and also some of the Game Over/Pause functionality.
 
 
