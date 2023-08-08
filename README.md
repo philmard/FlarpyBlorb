@@ -69,16 +69,19 @@ The User can choose to Resume the game / Go to Main Menu / Quit the game
 
 # Unity Screenshots
 
-Assets:
+Scene View:
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/5e6cd113-65f1-42be-8be4-2127728ea824)
 
-
+Unity Editor:
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/f3f04db7-2025-4479-be95-b788502ef878)
 
+Animations:
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/d31e288b-02cf-42c7-bded-f2870485fb98)
 
+Audio Mixer:
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/51d36efa-7009-4719-83dc-fd40e03facf7)
 
+Debug Messages in Console:
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/2bbeab48-c591-4cec-9ad3-69f5fc3bcbe2)
 
 
