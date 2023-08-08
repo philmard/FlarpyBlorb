@@ -109,7 +109,9 @@ Audio Mixer:
 
 using an exposed parameter of **'volume'**.
 
+
 Debug Messages in Console:
+
 ![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/2bbeab48-c591-4cec-9ad3-69f5fc3bcbe2)
 
 
