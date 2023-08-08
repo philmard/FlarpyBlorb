@@ -1,9 +1,10 @@
 # FlarpyBlorb
 
+This is a Game I created in [Unity](https://unity.com/) inspired by [this](https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker%27sToolkit) youtube video. 
 
-I made plenty additions to the Game.
-Some of them include:
-- Terrain Spawner
+I have made many additions to the Game.
+
+The Game Includes:
 - Main Menu
 - Options Menu
 - Pause Menu
@@ -12,9 +13,8 @@ Some of them include:
 - Clouds (using the Particle System)
 - Sound Effects
 - Animations
-- Other tweaks in code (eg. Score can't go up after Game Over, Game Over when Bird is off-screen, ...)
+- Terrain Spawner
+- Pipe Spawner
 
 
 
-# Inspired by this Yt Video:
-https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker%27sToolkit
