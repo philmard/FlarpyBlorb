@@ -1,8 +1,6 @@
 # FlarpyBlorb
 
-This is a Game very similar to [**Flappy Bird**](https://en.wikipedia.org/wiki/Flappy_Bird) created in [Unity](https://unity.com/) inspired by [this](https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker%27sToolkit) youtube video. 
-
-![image](https://github.com/philmard/FlarpyBlorb/assets/133666571/3c8a37b4-3826-470b-b394-91b090feeeda)
+This is a Game very similar to [**Flappy Bird**](https://en.wikipedia.org/wiki/Flappy_Bird) created in [Unity](https://unity.com/) inspired by [this](https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker%27sToolkit) youtube video from [Game Maker's Toolkit](https://www.youtube.com/@GMTK).
 
 
 I have made many additions to the Game. I have also made some changes to it.
